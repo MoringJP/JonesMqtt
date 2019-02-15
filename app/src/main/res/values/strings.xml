@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">JonesMqtt</string>
+    <string name="title_home">连接服务</string>
+    <string name="title_dashboard">关闭连接</string>
+    <string name="title_notifications">退出程序</string>
+    <string name="button_message">发送消息</string>
+    <string name="message_text">欢迎使用</string>
+    <string name="name_textview">用户名</string>
+    <string name="password_textview">口令</string>
+    <string name="service_textview">服务器</string>
+    <string name="service_port_textview">端口</string>
+    <string name="back_button">返回</string>
+    <string name="conn_button">确定连接</string>
+    <string name="service_port_edittext">1883</string>
+    <string name="service_id_textview">ID</string>
+    <string name="service_setting">服务器设置</string>
+</resources>
